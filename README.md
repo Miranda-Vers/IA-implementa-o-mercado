@@ -1,10 +1,3 @@
-# IA-implementa-o-mercado
-Para o seu **README** no GitHub, é importante que o conteúdo seja visualmente organizado para que recrutadores ou professores entendam a inteligência por trás do projeto rapidamente.
-
-Aqui está uma estrutura otimizada utilizando Markdown para o seu repositório `IA-implementa-o-mercado`:
-
----
-
 # 🚀 Inteligência Artificial Simbólica aplicada ao SAGV
 
 Este módulo detalha a análise de viabilidade e a lógica de implementação do motor de regras utilizado no **Sistema Administrativo de Gestão de Vencimentos (SAGV)** para o **Supermercado Yamauchi**.
