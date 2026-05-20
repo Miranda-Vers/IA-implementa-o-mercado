@@ -1,8 +1,8 @@
-# 🚀 Inteligência Artificial Simbólica aplicada ao SAGV
+# Inteligência Artificial Simbólica aplicada ao SAGV
 
 Este módulo detalha a análise de viabilidade e a lógica de implementação do motor de regras utilizado no **Sistema Administrativo de Gestão de Vencimentos (SAGV)** para o **Supermercado Yamauchi**.
 
-## 🧠 Análise de Viabilidade Técnica (Capítulo 9.2)
+## Análise de Viabilidade Técnica (Capítulo 9.2)
 
 A aplicação de um algoritmo de **IA Simbólica** é considerada altamente viável e estratégica para otimizar o controle de estoque e validade na unidade da rede. Esta abordagem transforma dados brutos em decisões automatizadas de negócio.
 
@@ -64,7 +64,7 @@ A IA atua como um motor de processamento que aplica lógica proposicional ($P \r
 
 ---
 
-## 📈 Expansão: Regras de Associação
+## Expansão: Regras de Associação
 
 Como evolução do sistema, propõe-se a análise de **Cesta de Compras** utilizando algoritmos como **FP-Growth**:
 
